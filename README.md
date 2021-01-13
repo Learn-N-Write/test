@@ -11,7 +11,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 <!-- markdownlint-disable -->
 <table>
   <tr>
-   
+   <td align="center"></td>
  
   </tr>
 
