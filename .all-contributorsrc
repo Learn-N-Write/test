@@ -8,16 +8,7 @@
   ],
   "imageSize": 100,
   "commit": false,
-
   "contributorTemplate": "<a href=\"<%= contributor.profile %>\"><img src=\"<%= contributor.avatar_url %>\" width=\"<%= options.imageSize %>px;\" alt=\"\"/><br /><sub><b><%= contributor.name %></b></sub></a>",
-  "types": {
-    "custom": {
-      "symbol": "🔭",
-      "description": "A custom contribution type.",
-      "link": "[<%= symbol %>](<%= url %> \"<%= description %>\"),"
-    }
-  },
- 
   "contributors": [
     {
       "login": "akrish4",
@@ -30,6 +21,7 @@
       ]
     }
   ]
-  "contributorsPerLine": 7,
-  "skipCi": true
+  "skipCi": true , 
+  "contributorsPerLine": 7
+ 
 }
