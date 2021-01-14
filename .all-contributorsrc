@@ -1,6 +1,6 @@
 {
   "projectName": "test",
-  "projectOwner": "akrish4",
+  "projectOwner": "Learn-N-Write",
   "repoType": "github",
   "repoHost": "https://github.com",
   "files": [
@@ -11,7 +11,7 @@
   "contributorsSortAlphabetically": false,
   "badgeTemplate": "[![All Contributors](https://img.shields.io/badge/all_contributors-<%= contributors.length %>-orange.svg?style=flat-square)](#contributors)",
   "contributorTemplate": "<a href=\"<%= contributor.profile %>\"><img src=\"<%= contributor.avatar_url %>\" width=\"<%= options.imageSize %>px;\" alt=\"\"/><br /><sub><b><%= contributor.name %></b></sub></a>",
-    "types": {
+  "types": {
     "custom": {
       "symbol": "🔭",
       "description": "A custom contribution type.",
@@ -28,9 +28,17 @@
         "code",
         "doc"
       ]
+    },
+    {
+      "login": "akweb369",
+      "name": "Ram",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/65895997?v=4",
+      "profile": "https://github.com/akweb369",
+      "contributions": [
+        "doc"
+      ]
     }
-  ] ,  
-  "skipCi": "true", 
+  ],
+  "skipCi": true,
   "contributorsPerLine": 7
- 
 }
