@@ -32,7 +32,7 @@ This project follows the [all-contributors](https://github.com/all-contributors/
   <tr>
     <td>
         <a href="https://github.com/Learn-N-Write/test/graphs/contributors">
-            <img src="https://contrib.rocks/image?repo=vaibhavirohilla741/Operationalizing-ML" />
+            <img src="https://contrib.rocks/image?repo=Learn-N-Write/test" />
         </a>
     </td>
    </tr>
