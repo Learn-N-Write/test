@@ -27,3 +27,13 @@ This project follows the [all-contributors](https://github.com/all-contributors/
 
 
 
+## ❤️ Thanks to our awesome contributors ✨✨.
+<table>
+  <tr>
+    <td>
+        <a href="https://github.com/Learn-N-Write/test/graphs/contributors">
+            <img src="https://contrib.rocks/image?repo=vaibhavirohilla741/Operationalizing-ML" />
+        </a>
+    </td>
+   </tr>
+</table>
