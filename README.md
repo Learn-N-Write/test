@@ -1,6 +1,9 @@
 # test
 This is a repo for testing purpose 
-https://imgur.com/Mtm7ofz
+
+| Main Screen | Statistics |  Preventions |
+|:-:|:-:|:-:|
+| ![Fist](https://imgur.com/Mtm7ofz?raw=true) | ![3](https://imgur.com/Mtm7ofz?raw=true) | ![3](https://imgur.com/Mtm7ofz?raw=true) |
 
 ## Contributors ✨
 
