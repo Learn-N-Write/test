@@ -1,11 +1,11 @@
 # test
 This is a repo for testing purpose 
 
-| Main Screen | Statistics |  Preventions |
+| Main Screen | News Search |  News |
 |:-:|:-:|:-:|
-| ![Fist](media/img1.png?raw=true) | ![3](media/img2.png?raw=true) | ![3](media/img3.png?raw=true) |
-| Main Screen Dark | Statistics Dark |  FAQ |
-| ![4](media/img4.png?raw=true) | ![5](media/img5.png?raw=true) | ![6](media/img1.png?raw=true) |
+| ![Fist](media/img3.png?raw=true) | ![3](media/img2.png?raw=true) | ![3](media/img1.png?raw=true) |
+| Options |  SRP |  Feed |
+| ![4](media/img4.png?raw=true) | ![5](media/img5.png?raw=true) | ![6](media/img2.png?raw=true) |
 ## Contributors ✨
 
 Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
