@@ -3,7 +3,7 @@ This is a repo for testing purpose
 
 | Main Screen | Statistics |  Preventions |
 |:-:|:-:|:-:|
-| ![Fist](https://imgur.com/Mtm7ofz) | ![3](https://imgur.com/Mtm7ofz?raw=true) | ![3](https://imgur.com/Mtm7ofz?raw=true) |
+| ![Fist](media/img1.png?raw=true) | ![3](media/img1.png?raw=true) | ![3](media/img1.png?raw=true) |
 
 ## Contributors ✨
 
